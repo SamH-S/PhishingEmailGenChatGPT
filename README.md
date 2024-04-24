@@ -1,4 +1,4 @@
-# Python Email Scraper and Generator
+# Email Scraper and Generator
 
 This repository contains two Python scripts: `scraper.py` for scraping websites to find email addresses, and `emailgen.py` for generating customised phishing emails based on scraped page content through ChatGPT.
 This is a proof of concept to encourage discussion. I'd expect the following improvements to be made by criminals:
